@@ -1,0 +1,6 @@
+config/targets.json
+config/grafana/**/*
+config/prometheus/**/*
+!config/grafana/.gitkeep
+!config/prometheus/.gitkeep
+
